@@ -99,6 +99,18 @@ Primeira tela após executar e acessar a porta.
 ![tela inicial(padrão) Angular](/imagens%20curso/primeiratela.png)
 
 #### 4. Criar um componente
+
+- Comando para criação de um componente
+
+```bash
+ng generate component components/home 
+
+# ng(angular cli)
+# generate (gerador)
+# component (indicador do que é pra gerar)
+# components/home (local dentro da pasta app onde gerar)
+```
+
 #### 5. Estrutura dos componentes
 #### 6. Utilizando um componente
 #### 7. Estados
