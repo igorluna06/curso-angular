@@ -11,6 +11,8 @@ para desenvolver projetos.
 
 - Typescritpt
 
+- SPA (Single Page application)
+
 
 # Requisitos
 
@@ -25,6 +27,18 @@ npm install -g @angular/cli
 # Tópicos
 
 #### 1. Criar um novo projeto
+
+```bash
+ng new meu-primeiro-app
+
+# ng(angular cli)
+# new (novo)
+# meu-primeiro-app (nome do projeto)
+
+> CSS
+# CSS (StyleSheet escolhido)
+```
+
 #### 2. Estrutura base do projeto
 #### 3. Executar projeto
 #### 4. Criar um componente
