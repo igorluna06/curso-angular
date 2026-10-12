@@ -112,7 +112,25 @@ ng generate component components/home
 ```
 
 #### 5. Estrutura dos componentes
+
+- Componente
+    - CSS
+    - HTML
+    - SPEC (Teste Unitario)
+    - Typescript (Classe)
+
+- Classe do componente
+    - @Component: Mapeamento do componente
+        - Selector: Referência do componente
+        - Standalone: Utilização de componentes sem modulos
+        - Imports: Modulos utilizados no componente
+        - TemplateUrl:  Url do HTML do componente
+        - StyleUrl: Url do CSS do componente
+
 #### 6. Utilizando um componente
+
+
+
 #### 7. Estados
 #### 8. Renderizando dados dinâmicos
 #### 9. Atributos dinâmicos
