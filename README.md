@@ -13,6 +13,8 @@ para desenvolver projetos.
 
 - SPA (Single Page application)
 
+- Live Reloading
+
 
 # Requisitos
 
@@ -78,6 +80,24 @@ Pastas do projeto:
 
 
 #### 3. Executar projeto
+
+- Comando para executar o script de inicialização
+
+```bash
+npm run start
+
+#start (script de inicialização) - ng serve
+# executar comando dentro do diretorio do projeto
+```
+
+- Logo após executar é disponibilizado a porta local da web do projeto
+
+http://localhost:4200/
+
+Primeira tela após executar e acessar a porta.
+
+![tela inicial(padrão) Angular](/imagens%20curso/primeiratela.png)
+
 #### 4. Criar um componente
 #### 5. Estrutura dos componentes
 #### 6. Utilizando um componente
